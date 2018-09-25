@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LabAssignment1</string>
+    <string name="fnameerr">Enter your Name</string>
+    <string name="title">Title</string>
+    <string name="des">Discription</string>
+    <string name="submit">Submit</string>
+    <string name="lnameerr">Enter your Lastname</string>
+    <string name="emailerr">Enter your Email</string>
+    <string name="passworderr">Enter your password</string>
+</resources>
